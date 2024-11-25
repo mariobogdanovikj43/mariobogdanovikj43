@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **mariobogdanovikj@gmail.com**
-
 <p align="left">
 </p>
 
